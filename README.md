@@ -1,6 +1,9 @@
-# PacmanGame Details
+# Pac-Man Game C++ Project Details
 We created a pacman game using C++ SFML and Data Structures.
-# Pac-Man C++ Project
+
+# Group Members
+Muhammad Junaid - 241443
+Mehshan Zafar   - 241399
 
 A custom implementation of the classic arcade game built from scratch in C++. This project focuses on efficient pathfinding algorithms and custom-built data structures to handle game logic without relying on the standard C++ library (STL).
 
